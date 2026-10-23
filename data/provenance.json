@@ -1,0 +1,118 @@
+[
+  {
+    "curated_file": "data/curves/mn-re50-signal.csv",
+    "curated_sha256": "89d22b53731f2b3d5fd796aa4f935a8749a290d4e93496eb7bae3b947413f331",
+    "archive_alias": "DPPC Paper",
+    "archive_relative": "DPPC Paper/Signals for paper/RE_50_Mn_20mM_Signal.out",
+    "original_sha256": "9ef66ccaa476520ad3836ec1bd049ff4d62e943abc555155d7ca078798e5471c",
+    "numeric_rows": 1621,
+    "role": "signal",
+    "sample": "RE50",
+    "transform": "Numeric first two columns only; 17 significant digits; no scaling, fitting, filtering or offsets."
+  },
+  {
+    "curated_file": "data/curves/mn-re50-model.csv",
+    "curated_sha256": "00a1592297688fe50d8fbd0a2f2a91d44f1e0f4b9d11224651b601a1060c2f85",
+    "archive_alias": "DPPC Paper",
+    "archive_relative": "DPPC Paper/Signals for paper/RE_50_Mn_20mM_Model.out",
+    "original_sha256": "e209e109d153d398f4da8275e85a5402c12cc18800d630dbdaf6dfd6d16d1b1e",
+    "numeric_rows": 1621,
+    "role": "model",
+    "sample": "RE50",
+    "transform": "Numeric first two columns only; 17 significant digits; no scaling, fitting, filtering or offsets."
+  },
+  {
+    "curated_file": "data/curves/mn-re50-sample_dc.csv",
+    "curated_sha256": "ac66f404dd6bc030a5aedf2441634fbe17edbbe26de69490d3e4e4d6eb20ed52",
+    "archive_alias": "DPPC Paper",
+    "archive_relative": "Series2/Signals/5. Manganese/RE 50 20mM/RE_50_7200sec_DC_Sub.out",
+    "original_sha256": "1ca4e51c7084cc621c5c9f7917c3c954a3f70e7be0d149458804af0a2c72494e",
+    "numeric_rows": 2020,
+    "role": "sample_dc",
+    "sample": "RE50",
+    "transform": "Numeric first two columns only; 17 significant digits; no scaling, fitting, filtering or offsets."
+  },
+  {
+    "curated_file": "data/curves/mn-re50-background_dc.csv",
+    "curated_sha256": "39a5f0f788f658c6bae48a4fad0f979c6abf081bdca67a487d5deb7d5dd955e3",
+    "archive_alias": "DPPC Paper",
+    "archive_relative": "Series2/Signals/5. Manganese/RE 50 20mM/RE_50_BG_3600sec_DC_Sub.out",
+    "original_sha256": "975fbcee7575f2310ec17e11d0efeddca73f574370016a9cd8f085b74bc91903",
+    "numeric_rows": 2020,
+    "role": "background_dc",
+    "sample": "RE50",
+    "transform": "Numeric first two columns only; 17 significant digits; no scaling, fitting, filtering or offsets."
+  },
+  {
+    "curated_file": "data/curves/mn-re50-subtracted.csv",
+    "curated_sha256": "89d22b53731f2b3d5fd796aa4f935a8749a290d4e93496eb7bae3b947413f331",
+    "archive_alias": "DPPC Paper",
+    "archive_relative": "Series2/Signals/5. Manganese/RE 50 20mM/RE_50_BG_SUB.out",
+    "original_sha256": "eee206c52d0f8df830eab9f744f770a0a6dc48c6729280f8a5da2c4b71123469",
+    "numeric_rows": 1621,
+    "role": "subtracted",
+    "sample": "RE50",
+    "transform": "Numeric first two columns only; 17 significant digits; no scaling, fitting, filtering or offsets."
+  },
+  {
+    "curated_file": "data/curves/ni-re45-signal.csv",
+    "curated_sha256": "4d61db0c4f105d76d5c7a659203bd3ef77481d47b719ac9130ea56c98500c6a4",
+    "archive_alias": "DPPC Paper",
+    "archive_relative": "Series2/Signals/4. Nickel/RE 45 100mM/Ni100mM_RE45_Signal.out",
+    "original_sha256": "81e42dfecc1ca76669d35d5bee11d8795752680e19838cc0dd03509fb7077498",
+    "numeric_rows": 1621,
+    "role": "signal",
+    "sample": "RE45",
+    "transform": "Numeric first two columns only; 17 significant digits; no scaling, fitting, filtering or offsets."
+  },
+  {
+    "curated_file": "data/curves/ni-re45-model.csv",
+    "curated_sha256": "e02fed3fe1f291910098015f4deb2c38a272584d70dbe08bf04087f9735a4b3a",
+    "archive_alias": "DPPC Paper",
+    "archive_relative": "Series2/Signals/4. Nickel/RE 45 100mM/Ni100mM_RE45_Model.out",
+    "original_sha256": "b92cd90157b4ac36e3b9fab941744c23d9b39d2db01e0ed5554286de9c75cd27",
+    "numeric_rows": 1621,
+    "role": "model",
+    "sample": "RE45",
+    "transform": "Numeric first two columns only; 17 significant digits; no scaling, fitting, filtering or offsets."
+  },
+  {
+    "curated_file": "data/curves/ni-re45-sample_dc.csv",
+    "curated_sha256": "4839e720633ee494ee1ae06ae76f3f88dd9733646463a916b629b256eb8005e5",
+    "archive_alias": "DPPC Paper",
+    "archive_relative": "Series2/Signals/4. Nickel/RE 45 100mM/RE_45_7200sec_DC_Sub.out",
+    "original_sha256": "ed0fc13ff4ded595be6a89c4ab630888bc674aba59bc851b213aca24a7612896",
+    "numeric_rows": 2020,
+    "role": "sample_dc",
+    "sample": "RE45",
+    "transform": "Numeric first two columns only; 17 significant digits; no scaling, fitting, filtering or offsets."
+  },
+  {
+    "curated_file": "data/curves/ni-re45-background_dc.csv",
+    "curated_sha256": "750211c0adf0a6392289906ff06871409a01e8fdfdd507c545ca681fd95ccb95",
+    "archive_alias": "DPPC Paper",
+    "archive_relative": "Series2/Signals/4. Nickel/RE 45 100mM/RE_45_BG_3600sec_DC_Sub.out",
+    "original_sha256": "c79c4462a03c40395ee762b7ac511b21f90d537e418cb1f68adbda4afed35257",
+    "numeric_rows": 2020,
+    "role": "background_dc",
+    "sample": "RE45",
+    "transform": "Numeric first two columns only; 17 significant digits; no scaling, fitting, filtering or offsets."
+  },
+  {
+    "curated_file": "data/curves/ni-re45-subtracted.csv",
+    "curated_sha256": "4d61db0c4f105d76d5c7a659203bd3ef77481d47b719ac9130ea56c98500c6a4",
+    "archive_alias": "DPPC Paper",
+    "archive_relative": "Series2/Signals/4. Nickel/RE 45 100mM/RE_45_BG_SUB.out",
+    "original_sha256": "1082137c5a0c7b45a2d5362413c541bb5b155b82bdf6a63502d4ebffb8975a00",
+    "numeric_rows": 1621,
+    "role": "subtracted",
+    "sample": "RE45",
+    "transform": "Numeric first two columns only; 17 significant digits; no scaling, fitting, filtering or offsets."
+  },
+  {
+    "curated_file": "data/observations.csv",
+    "curated_sha256": "b67cba95e44c55b4ec078b43037ecc58b9a42ae11ad0317e9fe4a5182a0f6cb9",
+    "source": "Direct extraction of three source summary workbooks",
+    "transform": "Byte-identical registry copy; flags retained; raw error/blank/alternative cells not normalized away."
+  }
+]

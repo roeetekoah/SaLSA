@@ -1,0 +1,49 @@
+observation_id,ion,nominal_concentration_mM,source_column,record_kind,sample_label,spacing_nm
+WB1-Sheet1-R3,Cu,1.0,C,recorded_primary,RE 2,6.337113
+WB1-Sheet1-R4,Cu,0.1,C,recorded_primary,RE 3,6.336852
+WB1-Sheet1-R6,Cu,1.0,C,recorded_primary,RE 5,6.34724
+WB1-Sheet1-R7,Cu,0.1,C,recorded_primary,RE 6,6.330824
+WB1-Sheet1-R9,Co,1.0,C,recorded_primary,RE 8,6.35131
+WB1-Sheet1-R10,Co,0.1,C,recorded_primary,RE 9,6.345014
+WB1-Sheet1-R12,Co,1.0,C,recorded_primary,RE 11,6.338146
+WB1-Sheet1-R13,Co,0.1,C,recorded_primary,RE 12,6.334378
+WB1-Sheet1-R15,Ni,1.0,C,recorded_primary,RE 14,6.354941
+WB1-Sheet1-R16,Ni,0.1,C,recorded_primary,RE 15,6.342976
+WB1-Sheet1-R19,Ni,0.1,C,tentative_single_peak,RE 18,6.151151
+WB1-Sheet1-R22,Mn,0.1,C,recorded_primary,RE 21,6.347511
+WB1-Sheet1-R23,Mn,10.0,C,tentative_single_peak,RE 22,22.185527
+WB1-Sheet1-R25,Mn,0.1,C,recorded_primary,RE 24,6.323221
+WB1-Sheet1-R26,Fe,10.0,C,recorded_primary,RE 25,18.07181
+WB1-Sheet1-R28,Fe,0.1,C,tentative_single_peak,RE 27,6.356565
+WB1-Sheet1-R29,Fe,10.0,C,recorded_primary,RE 28,18.764685
+WB1-Sheet1-R30,Fe,1.0,C,tentative_single_peak,RE 29,23.922176
+WB2-Sheet1-R2,Fe,20.0,C,recorded_primary,RE 32,18.344936
+WB2-Sheet1-R2,Fe,20.0,F,second_try_fit,RE 32,17.932439
+WB2-Sheet1-R3,Fe,100.0,C,recorded_primary,RE 33,9.397259
+WB2-Sheet1-R4,Fe,20.0,C,recorded_primary,RE 34,18.120405
+WB2-Sheet1-R4,Fe,20.0,F,second_try_fit,RE 34,18.072541
+WB2-Sheet1-R5,Fe,100.0,C,recorded_primary,RE 35,9.570564
+WB2-Sheet1-R9,Cu,100.0,C,recorded_primary,RE 39,13.397393
+WB2-Sheet1-R9,Cu,100.0,F,second_try_fit,RE 39,18.431046
+WB2-Sheet1-R11,Co,100.0,C,recorded_primary,RE 41,9.005215
+WB2-Sheet1-R11,Co,100.0,F,second_try_fit,RE 41,8.584269
+WB2-Sheet1-R13,Co,100.0,C,recorded_primary,RE 43,8.964354
+WB2-Sheet1-R15,Ni,100.0,C,recorded_primary,RE 45,8.520042
+WB2-Sheet1-R16,Ni,20.0,C,recorded_primary,RE 46,26.23122
+WB2-Sheet1-R17,Ni,100.0,C,recorded_primary,RE 47,8.563865
+WB2-Sheet1-R19,Mn,100.0,C,recorded_primary,RE 49,9.681803
+WB2-Sheet1-R21,Mn,100.0,C,recorded_primary,RE 51,9.656939
+WB3-Sheet1-R2,Fe,30.0,C,recorded_primary,unresolved in summary row,14.749398
+WB3-Sheet1-R3,Fe,40.0,C,recorded_primary,unresolved in summary row,12.40514
+WB3-Sheet1-R4,Fe,50.0,C,mixed_cell_value,RT56,11.279192
+WB3-Sheet1-R4,Fe,50.0,C,mixed_cell_value,RT57,11.784526
+WB3-Sheet1-R8,Co,30.0,C,mixed_cell_value,without third peak,13.89
+WB3-Sheet1-R8,Co,30.0,C,mixed_cell_value,with third peak,14.097209
+WB3-Sheet1-R9,Co,40.0,C,recorded_primary,unresolved in summary row,12.354106
+WB3-Sheet1-R10,Co,50.0,C,recorded_primary,unresolved in summary row,11.650784
+WB3-Sheet1-R11,Ni,30.0,C,recorded_primary,unresolved in summary row,13.493705
+WB3-Sheet1-R12,Ni,40.0,C,recorded_primary,unresolved in summary row,11.947227
+WB3-Sheet1-R13,Ni,50.0,C,recorded_primary,unresolved in summary row,10.44684
+WB3-Sheet1-R14,Mn,30.0,C,recorded_primary,unresolved in summary row,15.788546
+WB3-Sheet1-R15,Mn,40.0,C,recorded_primary,unresolved in summary row,12.10626
+WB3-Sheet1-R16,Mn,50.0,C,recorded_primary,unresolved in summary row,12.431007

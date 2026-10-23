@@ -1,0 +1,34 @@
+[
+  {
+    "ion": "Mn",
+    "sample": "RE50",
+    "concentration_mM": 20,
+    "salt": "MnCl2",
+    "background_factor": 1.52781,
+    "paths": {
+      "signal": "data/curves/mn-re50-signal.csv",
+      "model": "data/curves/mn-re50-model.csv",
+      "sample_dc": "data/curves/mn-re50-sample_dc.csv",
+      "background_dc": "data/curves/mn-re50-background_dc.csv",
+      "subtracted": "data/curves/mn-re50-subtracted.csv"
+    },
+    "model_status": "archived export; fitting not rerun and fit-session provenance not resolved",
+    "q_units_status": "nm^-1 as in the historical manuscript/figure; calibration not independently repeated"
+  },
+  {
+    "ion": "Ni",
+    "sample": "RE45",
+    "concentration_mM": 100,
+    "salt": "NiCl2",
+    "background_factor": 1.58916,
+    "paths": {
+      "signal": "data/curves/ni-re45-signal.csv",
+      "model": "data/curves/ni-re45-model.csv",
+      "sample_dc": "data/curves/ni-re45-sample_dc.csv",
+      "background_dc": "data/curves/ni-re45-background_dc.csv",
+      "subtracted": "data/curves/ni-re45-subtracted.csv"
+    },
+    "model_status": "archived export; fitting not rerun and fit-session provenance not resolved",
+    "q_units_status": "nm^-1 as in the historical manuscript/figure; calibration not independently repeated"
+  }
+]

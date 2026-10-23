@@ -1,0 +1,41 @@
+ion,nominal_concentration_mM,source_rows,spacing_recorded,no_peaks_recorded,blank_spacing_entry,multiple_or_alternative_spacing_values,not_available_in_summary,status_labels,independent_samples
+Cu,0.1,2,2,0,0,0,0,D(2),unresolved
+Cu,1,2,2,0,0,0,0,D(2),unresolved
+Cu,10,2,0,2,0,0,0,NP(2),unresolved
+Cu,20,2,0,0,2,0,0,blank(2),unresolved
+Cu,30,1,0,0,0,0,1,N/A,unresolved
+Cu,40,1,0,0,0,0,1,N/A,unresolved
+Cu,50,1,0,0,0,0,1,N/A,unresolved
+Cu,100,2,1,0,1,0,0,D / blank,unresolved
+Co,0.1,2,2,0,0,0,0,D(2),unresolved
+Co,1,2,2,0,0,0,0,D(2),unresolved
+Co,10,2,0,2,0,0,0,NP(2),unresolved
+Co,20,2,0,0,2,0,0,blank(2),unresolved
+Co,30,1,0,0,0,1,0,alt,unresolved
+Co,40,1,1,0,0,0,0,D,unresolved
+Co,50,1,1,0,0,0,0,D,unresolved
+Co,100,2,2,0,0,0,0,D(2),unresolved
+Ni,0.1,2,2,0,0,0,0,D(2),unresolved
+Ni,1,2,1,1,0,0,0,D / NP,unresolved
+Ni,10,2,0,2,0,0,0,NP(2),unresolved
+Ni,20,2,1,0,1,0,0,D / blank,unresolved
+Ni,30,1,1,0,0,0,0,D,unresolved
+Ni,40,1,1,0,0,0,0,D,unresolved
+Ni,50,1,1,0,0,0,0,D,unresolved
+Ni,100,2,2,0,0,0,0,D(2),unresolved
+Mn,0.1,2,2,0,0,0,0,D(2),unresolved
+Mn,1,2,0,2,0,0,0,NP(2),unresolved
+Mn,10,2,1,1,0,0,0,D / NP,unresolved
+Mn,20,2,0,0,2,0,0,blank(2),unresolved
+Mn,30,1,1,0,0,0,0,D,unresolved
+Mn,40,1,1,0,0,0,0,D,unresolved
+Mn,50,1,1,0,0,0,0,D,unresolved
+Mn,100,2,2,0,0,0,0,D(2),unresolved
+Fe,0.1,2,1,1,0,0,0,D / NP,unresolved
+Fe,1,2,1,1,0,0,0,D / NP,unresolved
+Fe,10,2,2,0,0,0,0,D(2),unresolved
+Fe,20,2,2,0,0,0,0,D(2),unresolved
+Fe,30,1,1,0,0,0,0,D,unresolved
+Fe,40,1,1,0,0,0,0,D,unresolved
+Fe,50,1,0,0,0,1,0,alt,unresolved
+Fe,100,2,2,0,0,0,0,D(2),unresolved

@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite SaLSA when using the data, figures, manuscript or analysis."
+title: "SaLSA — Salt–Lipid Scattering Analysis"
+type: software
+authors:
+  - family-names: Tekoah
+    given-names: Roee
+  - family-names: Eisenthal Berkovitz
+    given-names: Eitan
+  - family-names: Fink
+    given-names: Lea
+  - family-names: Shemesh
+    given-names: Asaf
+  - family-names: Raviv
+    given-names: Uri
+repository-code: "https://github.com/roeetekoah/SaLSA"
+url: "https://github.com/roeetekoah/SaLSA"
+date-released: 2026-10-23
+license:
+  - MIT
+  - CC-BY-4.0
+abstract: >-
+  Small-angle X-ray scattering study of ion-dependent organization of DPPC
+  membranes in CuCl2, CoCl2, NiCl2, MnCl2 and FeCl3 solutions. Research
+  conducted in the Raviv Group at the Hebrew University of Jerusalem in
+  2017–2018. Includes the manuscript, processed scattering curves, spacing
+  tables, figures and reproducible analysis.
+keywords:
+  - DPPC
+  - lipid membranes
+  - SAXS
+  - ion adsorption
+  - lamellar swelling

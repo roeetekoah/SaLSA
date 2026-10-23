@@ -1,0 +1,3 @@
+# Keep curated data, provenance hashes and generated artifacts byte-identical.
+# Disable automatic line-ending conversion across operating systems.
+* -text

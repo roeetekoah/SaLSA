@@ -1,0 +1,73 @@
+observation_id,display_decision,uncertainty_used,independent_replication_established,spacing_source,decision_note,effective_flags
+WB1-Sheet1-R2,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R3,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",contradicts_pure_form_factor_statement_in_results_P34,contradicts_pure_form_factor_statement_in_results_P34
+WB1-Sheet1-R4,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R5,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R6,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",contradicts_pure_form_factor_statement_in_results_P34,contradicts_pure_form_factor_statement_in_results_P34
+WB1-Sheet1-R7,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R8,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R9,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R10,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",paper_example_export_identity_conflicted,paper_example_export_identity_conflicted
+WB1-Sheet1-R11,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R12,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R13,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",Condition-wide flag: the demonstrated mislabeled export is RE9; no RE12 identity conflict was established.,same_condition_as_conflicted_RE9_export_no_RE12_identity_conflict_established
+WB1-Sheet1-R14,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R15,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R16,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R17,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R18,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R19,tentative_recorded_assignment,none,no,"historical summary cell, not a new fit",zero_error_is_not_verified_uncertainty,zero_error_is_not_verified_uncertainty
+WB1-Sheet1-R20,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R21,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R22,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R23,tentative_recorded_assignment,none,no,"historical summary cell, not a new fit",ambiguous_single_peak,ambiguous_single_peak
+WB1-Sheet1-R24,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R25,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R26,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R27,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R28,tentative_recorded_assignment,none,no,"historical summary cell, not a new fit",ambiguous_single_peak,ambiguous_single_peak
+WB1-Sheet1-R29,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R30,tentative_recorded_assignment,none,no,"historical summary cell, not a new fit",ambiguous_single_peak,ambiguous_single_peak
+WB1-Sheet1-R31,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R32,control_reference_unverified_identity,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R36,supplement_only_separate_protocol,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R37,supplement_only_separate_protocol,none,no,"historical summary cell, not a new fit",contradicts_pure_form_factor_statement_in_results_P34,contradicts_pure_form_factor_statement_in_results_P34
+WB1-Sheet1-R38,supplement_only_separate_protocol,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R39,supplement_only_separate_protocol,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R40,supplement_only_separate_protocol,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB1-Sheet1-R41,supplement_only_separate_protocol,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R2,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",second_try_value_present_not_independent_replication,second_try_value_present_not_independent_replication
+WB2-Sheet1-R3,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R4,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",second_try_value_present_not_independent_replication,second_try_value_present_not_independent_replication
+WB2-Sheet1-R5,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R6,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R7,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R8,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R9,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",second_try_value_present_not_independent_replication,second_try_value_present_not_independent_replication
+WB2-Sheet1-R10,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R11,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",second_try_value_present_not_independent_replication,second_try_value_present_not_independent_replication
+WB2-Sheet1-R12,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R13,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R14,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R15,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R16,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R17,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R18,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R19,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R20,categorical_status_only,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB2-Sheet1-R21,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",No additional row-specific flag; source-session linkage remains incomplete.,
+WB3-Sheet1-R2,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R3,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R4,alternative_values_separate_marker,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R5,categorical_status_only,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R6,categorical_status_only,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R7,categorical_status_only,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R8,alternative_values_separate_marker,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R9,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R10,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R11,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R12,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R13,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R14,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R15,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery
+WB3-Sheet1-R16,recorded_spacing_not_refit,none,no,"historical summary cell, not a new fit",sample_id_requires_recovery,sample_id_requires_recovery

@@ -1,0 +1,53 @@
+{
+  "sha256": "384a9fa5b52bdf0817e8a3909db1aeac1ef39ce46c19cca0a5d3024fd1bc35b4",
+  "Phase_a": 8.520042,
+  "peaks": "2",
+  "centers": {
+    "Center1": 0.728879,
+    "Center2": 1.479209,
+    "Center3": 2.191709
+  },
+  "settings": {
+    "LogScale": "1",
+    "LogFitting": "0",
+    "sigma": "1",
+    "Angstrom": "0",
+    "MinSignal": "0",
+    "peakshape": "1",
+    "CaillePeaks": "0"
+  },
+  "sigma_values": {
+    "Width1sigma": "0.000000",
+    "Width2sigma": "0.000000",
+    "Width3sigma": "0.000000",
+    "Width4sigma": "0.000000",
+    "Width5sigma": "0.000000",
+    "E.D.1sigma": "0.000000",
+    "E.D.2sigma": "0.000000",
+    "E.D.3sigma": "0.000000",
+    "E.D.4sigma": "0.000000",
+    "E.D.5sigma": "0.000000",
+    "Position1sigma": "0.000000",
+    "Position2sigma": "0.000000",
+    "Position3sigma": "0.000000",
+    "Position4sigma": "0.000000",
+    "Position5sigma": "0.000000",
+    "Scalesigma": "0.000000",
+    "Backgroundsigma": "0.000000",
+    "sigma": "1"
+  },
+  "sample": "RE45",
+  "ion": "Ni",
+  "nominal_concentration_mM": 100,
+  "archive_alias": "DPPC_PAPER",
+  "archive_relative": "Series2/Signals/4. Nickel/RE 45 100mM/RE_45_BG_SUB-params.ini",
+  "active_centers_nm_inverse": [
+    0.728879,
+    1.479209
+  ],
+  "order_assignments_for_arithmetic_check": [
+    1,
+    2
+  ],
+  "status": "Stored parameter arithmetic only; generating session for archived model export not proven."
+}

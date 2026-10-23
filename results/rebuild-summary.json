@@ -1,0 +1,67 @@
+{
+  "source_rows": 72,
+  "main_rows": 66,
+  "no_cycling_rows": 6,
+  "displayed_spacing_values": 48,
+  "spacing_marker_counts": {
+    "mixed_cell_value": 4,
+    "recorded_primary": 36,
+    "second_try_fit": 4,
+    "tentative_single_peak": 4
+  },
+  "curve_checks": [
+    {
+      "sample": "RE50",
+      "rows": 1621,
+      "q_min": 0.070376,
+      "q_max": 5.3731,
+      "subtraction_max_abs_difference_au": 4.439999975147657e-05,
+      "nonpositive_values": 39,
+      "signal_matches_processed_source": true,
+      "model_q_matches_signal": true,
+      "model_refitted": false
+    },
+    {
+      "sample": "RE45",
+      "rows": 1621,
+      "q_min": 0.070376,
+      "q_max": 5.3731,
+      "subtraction_max_abs_difference_au": 4.3999999661537e-06,
+      "nonpositive_values": 433,
+      "signal_matches_processed_source": true,
+      "model_q_matches_signal": true,
+      "model_refitted": false
+    }
+  ],
+  "sensitivity": {
+    "sample": "Ni RE45",
+    "nominal_salt_mM": 100,
+    "base_factor": 1.58916,
+    "relative_factor_changes": [
+      -0.05,
+      -0.01,
+      0,
+      0.01,
+      0.05
+    ],
+    "peak_windows_nm_inverse": [
+      [
+        0.63,
+        0.85
+      ],
+      [
+        1.36,
+        1.58
+      ]
+    ],
+    "method": "Three-point quadratic interpolation at highest intensity in each fixed window; assign h=1,2; least-squares slope through origin; D=2*pi/slope.",
+    "D_range_nm": [
+      8.558578480546362,
+      8.55891311495181
+    ],
+    "recorded_workbook_D_nm": 8.520042,
+    "uncertainty_estimated": false,
+    "limits": "Illustrative perturbations, not calibrated factor uncertainty. Windows/orders selected by inspection of two visible peaks. Not the original X+ fit; no raw integration, order-selection, temperature or sample-variation test."
+  },
+  "statistical_uncertainty_reported": false
+}

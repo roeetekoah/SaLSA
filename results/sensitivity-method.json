@@ -1,0 +1,30 @@
+{
+  "sample": "Ni RE45",
+  "nominal_salt_mM": 100,
+  "base_factor": 1.58916,
+  "relative_factor_changes": [
+    -0.05,
+    -0.01,
+    0,
+    0.01,
+    0.05
+  ],
+  "peak_windows_nm_inverse": [
+    [
+      0.63,
+      0.85
+    ],
+    [
+      1.36,
+      1.58
+    ]
+  ],
+  "method": "Three-point quadratic interpolation at highest intensity in each fixed window; assign h=1,2; least-squares slope through origin; D=2*pi/slope.",
+  "D_range_nm": [
+    8.558578480546362,
+    8.55891311495181
+  ],
+  "recorded_workbook_D_nm": 8.520042,
+  "uncertainty_estimated": false,
+  "limits": "Illustrative perturbations, not calibrated factor uncertainty. Windows/orders selected by inspection of two visible peaks. Not the original X+ fit; no raw integration, order-selection, temperature or sample-variation test."
+}

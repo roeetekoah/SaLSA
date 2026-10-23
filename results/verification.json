@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "source_rows": 72,
+  "spacing_values_checked": 48,
+  "curated_input_hashes_checked": 11,
+  "examples": [
+    {
+      "sample": "RE50",
+      "all_export_rows_verified": 1621,
+      "nonpositive_values_retained": 39
+    },
+    {
+      "sample": "RE45",
+      "all_export_rows_verified": 1621,
+      "nonpositive_values_retained": 433
+    }
+  ],
+  "independent_sensitivity_derivation_passed": true,
+  "stored_active_center_D_nm": 8.520042333421456,
+  "series_candidates_checked": 72,
+  "series_numerical_rows_checked": 128511,
+  "scope": "Processed-data tables and arithmetic only; no nonlinear historical fit or raw-detector reconstruction."
+}
